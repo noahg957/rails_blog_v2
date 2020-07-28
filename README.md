@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # rails_blog
 =======
+=======
+>>>>>>> b20a180edbb8859f3b672dd78525981adb1a5e0f
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +28,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 >>>>>>> b20a180... first one
+=======
+>>>>>>> b20a180edbb8859f3b672dd78525981adb1a5e0f
